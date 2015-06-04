@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "clearcache" && exit 0
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+echo "clearcache" 
+exit 0
