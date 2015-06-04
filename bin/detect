@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "clearcache"
+echo "clearcache" && exit 0
